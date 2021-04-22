@@ -6,6 +6,10 @@ h1{
     color: red;
 }
 
+span{
+    background-color: thistle;
+}
+
 p{
     font-size: 14px;
 }
